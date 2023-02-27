@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: tester_token
+  secret: prod_token
 
 gateway:
   ip: 10.1.36.133

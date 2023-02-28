@@ -1,0 +1,6 @@
+gateway:
+  ip: 10.1.36.133
+
+token:
+  expiration_time: 86400000
+  secret: dev_token44

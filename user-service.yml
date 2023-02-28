@@ -5,5 +5,5 @@ spring:
       driver-class-name: org.h2.Driver
       pool-name: HikariConnectionPool
       username: tester
-      password: '{chiper}4850b4add4cf57e49c2fb91409445859e8acb0eaaab7e8d352ca80ec98c8f70c'
+      password: '{chipher}4850b4add4cf57e49c2fb91409445859e8acb0eaaab7e8d352ca80ec98c8f70c'
       jdbc-url: jdbc:h2:mem:testdb;DB_CLOSE_ON_EXIT=FALSE

@@ -4,6 +4,11 @@ service-url:
   eureka: http://localhost:8761/eureka
 
 
+
 security:
   gateway-ip: 10.1.36.133
   user-header-name: user
+
+spring:
+  config:
+    import: application-test.yml

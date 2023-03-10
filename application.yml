@@ -1,14 +1,10 @@
 
-service-url:
-  kafka: http://localhost:9092
-  eureka: http://localhost:8761/eureka
-
-
-
 security:
   gateway-ip: 10.1.36.133
   user-header-name: user
 
 spring:
   config:
-    import: application-test.yml
+    import: 
+      - dev/application-kafka.yml
+      - dev/application-eureka.yml

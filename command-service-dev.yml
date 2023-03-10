@@ -1,0 +1,7 @@
+spring:
+  config:
+    import: 
+      - dev/application-kafka.yml
+      - dev/application-eureka.yml
+      - dev/application-redis.yml
+      - dev/application-mariadb.yml

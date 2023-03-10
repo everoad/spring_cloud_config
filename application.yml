@@ -5,5 +5,5 @@ service-url:
 
 
 security:
-  gateway-ip: 10.1.36.133
+  gateway-ip: 10.1.36.1334
   user-header-name: user

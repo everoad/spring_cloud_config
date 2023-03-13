@@ -1,7 +1,0 @@
-spring:
-  config:
-    import: 
-      - live/application-kafka.yml
-      - live/application-eureka.yml
-      - live/application-redis.yml
-      - live/application-mariadb.yml

@@ -1,7 +1,0 @@
-spring:
-  data:
-    redis:
-      host: 192.168.121.83
-      port: 8091
-      password: qwer1234!!
-
